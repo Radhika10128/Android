@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="edit_message">Enter the message</string>
+    <string name="button_label">Send message</string>
+    <string name="welcome_message">welcome to message activity</string>
+    <string name="final_activity_message">welcome to final activity</string>
+    <string name="final_activity_button">Open Final Activity</string>
+</resources>
